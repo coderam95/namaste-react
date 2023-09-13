@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "name": "namaste_react_webseries",
+  "version": "1.0.0",
+  "description": "webseries_codealong",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderam95/namaste-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "akshay saini/hariram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderam95/namaste-react/issues"
+  },
+  "homepage": "https://github.com/coderam95/namaste-react#readme"
+}
